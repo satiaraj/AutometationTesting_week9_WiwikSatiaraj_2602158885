@@ -12,6 +12,7 @@ assignment9_cypress_Bootcam_qa/
 ├── cypress/
 │   ├── e2e/
 │   │   └── features/
+|   |       ├── loginFeature.js 
 │   │       └── admin.feature           # Feature file for admin scenarios
 │   ├── pages/
 │   │   ├── AdminPage.js               # Page Object for Admin page
